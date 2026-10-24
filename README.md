@@ -2,7 +2,8 @@
 
 A Windows Forms desktop application for managing employee records, built with **C#**, **.NET** and **SQL Server (LocalDB)**. It supports full CRUD operations (Create, Read, Update, Delete) with a clean, modern interface.
 
-<img width="990" height="867" alt="image" src="https://github.com/user-attachments/assets/c7285894-a0a9-432f-a7a0-0293bed284c2" />
+<img width="987" height="867" alt="image" src="https://github.com/user-attachments/assets/d0d672d0-2ee2-4bd2-953f-daa501e18bec" />
+
 
 
 ---
