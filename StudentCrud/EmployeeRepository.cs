@@ -59,7 +59,7 @@ namespace StudentCrud
             using var con = new SqlConnection(DbConn);
             using var cmd = new SqlCommand(
                 "SELECT COUNT(1) FROM dbo.Employees WHERE EmployeeId = @id", con);
-            cmd.Parameters.AddWithValue("@id", id);
+            cmd.Parameters.AddWithValue("@id", id); 
             con.Open();
             return (int)cmd.ExecuteScalar() > 0;
         }
